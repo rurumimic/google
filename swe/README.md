@@ -22,8 +22,8 @@ _소프트웨어 엔지니어링은 흐르는 시간 위에서 순간순간의 �
 
 ## Culture
 
-- How to Work Well on Teams
-- Knowledge Sharing
+- [How to Work Well on Teams](02_culture/01_how_to_work_well_on_teams.md)
+- [Knowledge Sharing](02_culture/02_knowledge_sharing.md)
 - Engineering for Equity
 - How to Lead a Team
 - Leading at Scale

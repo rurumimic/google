@@ -1,5 +1,7 @@
 # Thesis
 
+[What Is Software Engineering?](https://abseil.io/resources/swe-book/html/ch01.html)
+
 ## Software Engineering
 
 - **Time and Change**: How code will need to adapt over the length of its life
